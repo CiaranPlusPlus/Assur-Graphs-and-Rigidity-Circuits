@@ -1,0 +1,1 @@
+[[(0, 1), (1, 2)], [(0, {'pinned': True}), (1, {'pinned': False}), (2, {'pinned': True})]]
